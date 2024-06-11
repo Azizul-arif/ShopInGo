@@ -21,6 +21,7 @@ namespace ECommerce.Controllers
         // GET: Categories
         public async Task<IActionResult> Index()
         {
+            ViewData["Title"] = "Index";
             return View(await _context.Categories.ToListAsync());
         }
 

@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "D:\\powersoft\\Ecommerce\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\colors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\colors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\colors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\colors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\colors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\colors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\colors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\colors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\data\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:data\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|d:\\powersoft\\ecommerce\\ecommerce\\views\\colors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDEB3366-9C54-4937-A9D9-4332F5AD0302}|ECommerce.csproj|solutionrelative:views\\colors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +74,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
-              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T17:45:47.307Z",
+              "WhenOpened": "2024-06-12T16:37:05.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductImagesController.cs",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\ProductImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductImagesController.cs",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\ProductImagesController.cs",
+              "RelativeToolTip": "Controllers\\ProductImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:35:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:34:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Colors\\Index.cshtml",
               "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Index.cshtml",
               "RelativeToolTip": "Views\\Colors\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-11T14:50:48.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
@@ -92,8 +138,7 @@
               "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T18:44:16.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T18:44:16.325Z"
             },
             {
               "$type": "Document",
@@ -103,14 +148,14 @@
               "RelativeDocumentMoniker": "Views\\Colors\\Create.cshtml",
               "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Create.cshtml",
               "RelativeToolTip": "Views\\Colors\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-10T18:43:13.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ColorsController.cs",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\ColorsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ColorsController.cs",
@@ -122,20 +167,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
               "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-09T22:00:46.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwBoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T21:51:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:45:47.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -143,21 +214,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAcBAAAAAAAAAAArwAcCAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T21:57:58.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAHEDAAAAAAAAAAAAAHoDAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T21:51:24.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T21:57:58.328Z"
             },
             {
               "$type": "Document",
@@ -167,14 +224,53 @@
               "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
               "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Categories\\Delete.cshtml",
               "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-11T17:49:33.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colors\\Delete.cshtml",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Colors\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:44:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T16:05:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Data\\Color.cs",
+              "RelativeDocumentMoniker": "Data\\Color.cs",
+              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Data\\Color.cs",
+              "RelativeToolTip": "Data\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:13:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -183,18 +279,6 @@
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T21:47:43.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Colors\\Delete.cshtml",
-              "ToolTip": "D:\\powersoft\\Ecommerce\\ECommerce\\Views\\Colors\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Colors\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T18:44:27.305Z"
             }
           ]
         }

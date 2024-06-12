@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations.Schema;
+using ECommerce.Data;
 
 namespace ECommerce.Data
 {
@@ -16,6 +17,7 @@ namespace ECommerce.Data
         public DbSet<Color>Colors { get; set; }
         public DbSet<Size> Sizes { get; set; }
         public DbSet<ProductImages>ProductImages { get; set; }
+        public DbSet<ECommerce.Data.Product> Product { get; set; } = default!;
     }
 
     public class ApplicationUser : IdentityUser

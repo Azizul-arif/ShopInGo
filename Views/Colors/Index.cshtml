@@ -7,12 +7,12 @@
 <div class="container">
     <nav class="mt-2" aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Colors">Colors</a></li>
+            <li class="breadcrumb-item"><a class="text-info" asp-action="Index" asp-controller="Colors">Colors</a></li>
         </ol>
     </nav>
     <div class="row offset-4">
         <div class="text-center">
-            <a class="card-title mx-3 my-3 btn btn-outline-primary" asp-controller="Colors" asp-action="Create">Create New Color</a>
+            <a class="card-title mx-3 my-3 btn btn-outline-info" asp-controller="Colors" asp-action="Create">Create New Color</a>
         </div>
 
     </div>
@@ -40,8 +40,8 @@
                             </td>
                             
                             <td class="text-center">
-                                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-                                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
                                 <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                             </td>
                         </tr>

@@ -7,7 +7,7 @@ namespace ECommerce.Data
         public int Id { get; set; }
         public string?ImagePath { get; set; }
         [NotMapped]
-        public IFormFile? Image { get; set; }
+        public List<IFormFile> ? Image { get; set; }
         [ForeignKey("Product")]
        public int ProductId { get; set; }
         public Product?Product { get; set; }

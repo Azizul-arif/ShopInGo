@@ -26,7 +26,23 @@
     <!-- summernote -->
     <link rel="stylesheet" href="~/Admin/plugins/summernote/summernote-bs4.min.css">
     <!--DataTable Css-->
-    <link rel="stylesheet" href=" https://cdn.datatables.net/2.0.8/css/dataTables.bootstrap4.css"
+    <link rel="stylesheet" href=" https://cdn.datatables.net/2.0.8/css/dataTables.bootstrap4.css" />
+    <style>
+        table.dataTable thead th {
+            position: relative;
+            background-image: none !important;
+        }
+
+            table.dataTable thead th.sorting:after,
+            table.dataTable thead th.sorting_asc:after,
+            table.dataTable thead th.sorting_desc:after {
+                position: absolute;
+                top: 12px;
+                right: 8px;
+                display: block;
+                font-family: FontAwesome;
+            }
+    </style>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
@@ -802,9 +818,22 @@
     <!-- AdminLTE App -->
     <script src="~/Admin/dist/js/adminlte.js"></script>
     <!--Data Table-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"</script>
-    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"</script>
-    
+    @* <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"</script>
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"</script> *@
+    <!--DataTable from plugins--->
+    <!-- DataTables  & Plugins -->
+    <script src="~/Admin/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Admin/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Admin/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/Admin/plugins/jszip/jszip.min.js"></script>
+    <script src="~/Admin/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/Admin/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/Admin/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
     
     
     <script src="~/Admin/dist/js/pages/dashboard.js"></script>

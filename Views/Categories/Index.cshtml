@@ -22,7 +22,7 @@
         @if (Model != null)
         {
 
-            <table id="CategoryTable" class=" display table table-striped table-bordered">
+            <table id="CategoryTable" class=" display table table-striped table-bordered w-100">
 
                 <thead class="text-center">
                     <tr>
@@ -65,6 +65,32 @@
    
 
 </div>
+@section Scripts {
+    @* <script>
+        $(function () {
+            var table = $("#CategoryTable").DataTable({
+                "responsive": true,
+                "lengthChange": false,
+                "autoWidth": false,
+                "bSort": true,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            });
+
+            table.buttons().container().appendTo('#CategoryTable_wrapper .col-md-6:eq(0)').addClass('col-12');
+
+            $('#CategoryTable').DataTable({
+                "paging": true,
+                "lengthChange": true,
+                "searching": true,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+        });
+    </script> *@
+    
+}
 
 
 
